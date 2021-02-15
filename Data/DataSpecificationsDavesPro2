@@ -1,0 +1,32 @@
+Varible|units|UpdateInterval|Description
+
+Data_Time           |  AA-MM-DD H:M:S   |    ---       |  Date and time of measurement
+Temp_Out            |        °C         |  10 seconds  |  Outside Temperature
+Hi_Temp             | 
+Low_Temp            |
+Out_Hum             |         %         | 1 minute     | Outside Humidity (relative humidity)
+Dew_pt.             |        °c         | 10 seconds   | Dew point (overall)
+Wind_Speed          |                   | 2.5 seconds  |  Wind speed
+Wind_dir            |      ° 0 to  360  | 2.5 seconds  |  Wind direction
+Wind_Run            |
+Hi_Dir              |
+Wind_Chill          |         °C        | 10 seconds   | Wind chill
+Heat_Index          |         °C        | 10 seconds   | Heat index
+THW_Index
+Bar
+Rain
+Rain_Rate           |   mm/hr           | 20 secods    | Rain rate
+Heat_D-D
+Cool_D-D
+In_Temp             |         °C        | 1 minute     | Inside temperature (sensor in console)
+In_Hum              |         %         | 1 munute     | Inside humidity (sensor in console)
+In_Dew
+In_Heat
+In_EMC
+In Air_Density
+Wind_Samp
+Wind_Tx
+ISS_Recept
+Arc._Int.
+
+
