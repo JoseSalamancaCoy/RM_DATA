@@ -1,0 +1,1 @@
+{"timestamp":"2020-12-20T22:11:20Z","data":[{"data_type":"pm1","value":"10.60","max":"13.00","min":"10.00","sd":"0.91"},{"data_type":"voltage","value":"4.74","max":"4.89","min":"4.58","sd":"0.11"},{"data_type":"batery","value":"4.35","max":"4.35","min":"4.35","sd":"0.00"},{"data_type":"panel","value":"4.97","max":"5.10","min":"4.82","sd":"0.09"}]}

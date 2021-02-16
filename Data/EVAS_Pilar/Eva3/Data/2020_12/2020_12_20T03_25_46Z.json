@@ -1,0 +1,1 @@
+{"timestamp":"2020-12-20T03:25:46Z","data":[{"data_type":"pm10","value":"1.20","max":"6.00","min":"0.00","sd":"2.20","sensor":5},{"data_type":"noise","value":"89.25","max":"323.02","min":"41.10","sd":"12.63"},{"data_type":"rain","value":"0.00","max":"0.00","min":"0.00","sd":"0.00"}]}

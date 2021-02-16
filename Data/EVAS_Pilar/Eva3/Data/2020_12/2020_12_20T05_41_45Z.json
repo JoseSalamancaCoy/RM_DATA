@@ -1,0 +1,1 @@
+{"timestamp":"2020-12-20T05:41:45Z","data":[{"data_type":"pm10","value":"2.47","max":"4.00","min":"0.00","sd":"1.25","sensor":5},{"data_type":"pm2.5","value":"3.47","max":"6.00","min":"0.00","sd":"1.66","sensor":6},{"data_type":"noise","value":"219.39","max":"293.44","min":"182.64","sd":"8.31"},{"data_type":"rain","value":"0.00","max":"0.00","min":"0.00","sd":"0.00"}]}
