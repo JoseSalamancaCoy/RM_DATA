@@ -225,7 +225,7 @@ def LinearModel(variables,porcentage):
     coef = lin_reg_mod.coef_
     intercept = lin_reg_mod.intercept_
     Yc = sum([variables[i] * coef[i-1] for i in range(1,len(variables))] ) + intercept
-    return test_set_rmse, lin_reg_mod.coef_, lin_reg_mod.intercept_ , Yc
+    return lin_reg_mod.coef_, lin_reg_mod.intercept_ , Yc
     #return Yc
 
 def RamdonForest(variables,porcentage):
